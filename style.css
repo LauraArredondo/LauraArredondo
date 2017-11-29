@@ -1,0 +1,31 @@
+body {
+  background-image: url("img/farm.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+}
+
+.chicken{
+  width: 100px;
+}
+
+.cow{
+  width: 250px;
+}
+
+.pigs {
+  width: 200px;
+
+}
+
+.horse {
+  width: 100px;
+}
+
+.animals {
+  display: flex;
+  display: inline-block;
+  
+  padding-top: 40%;
+
+}
